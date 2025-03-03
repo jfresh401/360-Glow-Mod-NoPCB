@@ -1,0 +1,6 @@
+
+avrdude -c arduino -b 19200 -p xyz (queries the chip models)
+
+avrdude -c arduino -b 19200 -p t85 -P COM17 -n  (checks chip if its good.)
+
+avrdude -c arduino -b 19200 -p t85 -P COM17 -U flash:w:glowmod.hex  (flashes the actual hex file)
