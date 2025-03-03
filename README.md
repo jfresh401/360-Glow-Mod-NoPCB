@@ -70,6 +70,8 @@ Once verified, enter this command and hit enter.  (Again, Replace COM17 with you
 
 This flashes the actual hex file to the attiny85.
 
+You can close out of command prompt.
+
 That's it! Your attiny85 can now be used for the GlowMod.            Enjoy!   
 
 
