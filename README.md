@@ -18,7 +18,7 @@ Introducing the Glow Mod PCB-less for Xbox 360! A recreation of the TX Glow Mod 
 
 
 
-Open IDE with pro micro connected and choose my Arduino ISP sketch. My ISP sketch will work for pro micro. 
+Open Arduino IDE with pro micro connected and choose MY Arduino ISP sketch. My ISP sketch will work for pro micro. 
 
 Flash that sketch to the pro micro. Next, grab your attiny85 and wire it up accordingly.
 
