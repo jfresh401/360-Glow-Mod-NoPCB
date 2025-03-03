@@ -14,7 +14,7 @@ Introducing the Glow Mod PCB-less for Xbox 360! A recreation of the TX Glow Mod 
 
 
 
-                                                    ## How to flash the ATTiny85 for the Glowmod.  ##
+                          ## How to flash the ATTiny85 for the Glowmod.  ##
 
 
 
