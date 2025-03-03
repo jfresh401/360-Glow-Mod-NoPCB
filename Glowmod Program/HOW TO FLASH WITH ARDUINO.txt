@@ -13,13 +13,13 @@ Flash that sketch to the pro micro. Next, grab your attiny85 and wire it up acco
 
        GND                      pin 4
 
-       GPIO10                   pin 1
+       GPIO10                   pin 1   RESET
 
-       GPIO16                   pin 5
+       GPIO16 MOSI              pin 5
 
-       GPIO14                   pin 6
+       GPIO14 MISO              pin 6
 
-       GPIO15                   pin 7 
+       GPIO15 SCK               pin 7 
 
 
 
