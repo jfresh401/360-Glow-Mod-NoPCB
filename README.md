@@ -58,13 +58,13 @@ You can close out of the IDE.
 
 Now open CMD.EXE and navigate to the Glowmod Program folder. (EXAMPLE:  C:\Users\YOU\OneDrive\Desktop\Glowmod Program )
 
-Enter this command and hit enter.
+Enter this command and hit enter.  (Replace COM17 with your COM port that was used in IDE.)
 
                   avrdude -c arduino -b 19200 -p t85 -P COM17 -n
 
 This will check the integrity of the attiny85 and return some info including a verification of the chips flash.
 
-Once verified, enter this command and hit enter.
+Once verified, enter this command and hit enter.  (Again, Replace COM17 with your COM port that was used in IDE.)
             
             avrdude -c arduino -b 19200 -p t85 -P COM17 -U flash:w:glowmod.hex
 
